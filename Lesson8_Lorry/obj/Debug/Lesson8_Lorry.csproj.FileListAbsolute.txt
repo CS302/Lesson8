@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Lesson8\Lesson8_Lorry\bin\Debug\Lesson8_Lorry.exe.config
+C:\Users\Alex\Desktop\Lesson8\Lesson8_Lorry\bin\Debug\Lesson8_Lorry.exe
+C:\Users\Alex\Desktop\Lesson8\Lesson8_Lorry\bin\Debug\Lesson8_Lorry.pdb
+C:\Users\Alex\Desktop\Lesson8\Lesson8_Lorry\obj\Debug\Lesson8_Lorry.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Lesson8\Lesson8_Lorry\obj\Debug\Lesson8_Lorry.exe
+C:\Users\Alex\Desktop\Lesson8\Lesson8_Lorry\obj\Debug\Lesson8_Lorry.pdb

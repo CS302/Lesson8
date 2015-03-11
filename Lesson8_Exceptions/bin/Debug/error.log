@@ -1,0 +1,10 @@
+10.03.2015 20:42:59
+Попытка деления на нуль.
+   в Lesson8_Exceptions.Work.Start() в c:\Users\Alex\Desktop\Lesson8\Lesson8_Exceptions\Program.cs:строка 47
+   в Lesson8_Exceptions.Program.Main(String[] args) в c:\Users\Alex\Desktop\Lesson8\Lesson8_Exceptions\Program.cs:строка 17
+--------------------------
+10.03.2015 20:45:53
+А мне захотелось!
+   в Lesson8_Exceptions.Work.Start() в c:\Users\Alex\Desktop\Lesson8\Lesson8_Exceptions\Program.cs:строка 46
+   в Lesson8_Exceptions.Program.Main(String[] args) в c:\Users\Alex\Desktop\Lesson8\Lesson8_Exceptions\Program.cs:строка 17
+--------------------------
